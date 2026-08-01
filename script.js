@@ -1,1 +1,0 @@
-console.log("YSRCP Northern Territory Website Loaded Successfully");
